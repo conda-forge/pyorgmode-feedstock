@@ -11,6 +11,18 @@ Summary: A python class for reading and writing orgmode files
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pyorgmode-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pyorgmode-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pyorgmode-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pyorgmode-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pyorgmode-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pyorgmode-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyorgmode/badges/version.svg)](https://anaconda.org/conda-forge/pyorgmode)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyorgmode/badges/downloads.svg)](https://anaconda.org/conda-forge/pyorgmode)
+
 Installing pyorgmode
 ====================
 
@@ -66,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pyorgmode-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pyorgmode-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pyorgmode-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pyorgmode-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pyorgmode-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pyorgmode-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyorgmode/badges/version.svg)](https://anaconda.org/conda-forge/pyorgmode)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyorgmode/badges/downloads.svg)](https://anaconda.org/conda-forge/pyorgmode)
 
 
 Updating pyorgmode-feedstock
