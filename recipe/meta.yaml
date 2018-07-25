@@ -1,4 +1,4 @@
-{% set version = "0.1" %}
+{% set version = "0.03c" %}
 {% set name = "PyOrgMode" %}
 
 package:
@@ -8,11 +8,11 @@ package:
 source:
   fn: {{ name }}-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: cd704c620a5873bb0f943a86e62b4c6e831d4a569665f886b05327da6f84ef34
+  sha256: 798c89a4d84b0127c26e04377776a0a5f001194976edca93127aa5edddb01ffb
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
